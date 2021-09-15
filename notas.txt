@@ -1,0 +1,19 @@
+localhost:3000
+
+*-------------------Terminal XAMPP-------------------*
+
+site: 
+http://localhost:8000/phpmyadmin/
+
+comandos: 
+sudo /opt/lampp/lampp start
+sudo /opt/lampp/lampp stop
+sudo /opt/lampp/lampp restart
+
+*------------Terminal Iniciar app.js------------*
+
+path: 
+'Área de trabalho' -> 'Doe Amor'
+
+comando: 
+nodemon ou node app.js
